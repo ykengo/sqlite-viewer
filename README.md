@@ -23,7 +23,7 @@ A modern SQLite database viewer built with PyQt5 and Fluent Design System. View 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sqlite-viewer.git
+git clone https://github.com/ykengo/sqlite-viewer.git
 cd sqlite-viewer
 ```
 
